@@ -39,12 +39,7 @@
   
   <br>
 
-  <!-- 🚀 NEW: ANIMATED 3D CONTRIBUTION SNAKE -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazi343534/kazi343534/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazi343534/kazi343534/output/github-contribution-grid-snake.svg">
-    <img alt="(Note: The Snake Animation will appear here once the GitHub Action runs)" src="https://raw.githubusercontent.com/kazi343534/kazi343534/output/github-contribution-grid-snake.svg" width="850">
-  </picture>
+<!-- (The Snake Animation can be added here later once the GitHub Action is set up) -->
 
 </div>
 
