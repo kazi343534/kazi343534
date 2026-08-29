@@ -2,7 +2,7 @@
 
   <!-- 🌟 PREMIUM DYNAMIC ANIMATED TYPING HEADER -->
   <a href="https://kazi343534.github.io/kazi-developer-portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Hi,+I'm+Kazi+Imtiaz+Hossain+👋;Full-Stack+%26+Systems+Software+Engineer;Building+Flutter,+C%2B%2B17+Kernel+%26+AI+Agents;Creator+of+TradeLink+%26+Smart+Process+Optimizer;Welcome+to+my+Engineering+Command+Center!" alt="Typing Header SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Hi%2C%20I'm%20Kazi%20Imtiaz%20Hossain%20%F0%9F%91%8B%3BFull-Stack%20%26%20Systems%20Software%20Engineer%3BBuilding%20Flutter%2C%20C%2B%2B17%20Kernel%20%26%20AI%20Agents%3BCreator%20of%20TradeLink%20%26%20Smart%20Process%20Optimizer%3BWelcome%20to%20my%20Engineering%20Command%20Center!" alt="Typing Header SVG" />
   </a>
 
   <br>
